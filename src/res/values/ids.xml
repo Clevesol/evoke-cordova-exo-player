@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="exo_buttons" type="id"/>
+    <item name="exo_image" type="id"/>
+    <item name="exo_title" type="id"/>
+    <item name="exo_subtitle" type="id"/>
+    <item name="exo_timebar" type="id"/>
+    <item name="exo_buffering" type="id"/>
+    <item name="exo_rew" type="id"/>
+    <item name="exo_prev_evoke" type="id"/>
+    <item name="exo_duration" type="id"/>
+    <item name="exo_position" type="id"/>
+    <item name="exo_play" type="id"/>
+    <item name="exo_pause" type="id"/>
+    <item name="exo_ffwd" type="id"/>
+    <item name="exo_next_evoke" type="id"/>
+    <item name="exo_shuffle" type="id"/>
+    <item name="exo_repeat" type="id"/>
+    <item name="exo_fav" type="id"/>
+    <item name="exo_vol" type="id"/>
+    <item name="exo_tracks" type="id"/>
+    <item name="controllerViewVideo" type="id"/>
+    <item name="controllerViewAudio" type="id"/>
+    <item name="controllerRepeatShuffle" type="id"/>
+</resources>
